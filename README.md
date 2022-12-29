@@ -1,3 +1,4 @@
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Adarsh Pal</h1>
 <h3 align="center">A Data Science enthusiastic from India..</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AdarshPal740/AdarshPal740/blob/main/img.gif">
