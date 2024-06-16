@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarsh_9628" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh_9628?logo=twitter&style=for-the-badge" alt="adarsh_9628" /></a> </p>
 
-- 💬 Ask me about **Web Development,Data Structure**
+- 💬 Ask me about **Development,Data Structure**
 
 - 📫 How to reach me **adarshpal740@gmail.com**
 
@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 </div>
